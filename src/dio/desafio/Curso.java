@@ -1,5 +1,4 @@
 package dio.desafio;
-
 public class Curso {
     private String titulo;
     private String descricao;
